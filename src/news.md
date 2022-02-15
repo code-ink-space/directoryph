@@ -40,6 +40,8 @@
 
 - [CNN Philippines](https://www.cnnphilippines.com/)
 
+- [One News](https://www.onenews.ph/)
+
 ## Radio Stations
 
 - [DZBB](https://www.gmanetwork.com/radio/dzbb)

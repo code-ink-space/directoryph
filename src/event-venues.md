@@ -1,10 +1,12 @@
 # Event Venues
 
+<small>*\* indicates a social media page link*</small>
+
 - [Araneta Coliseum](https://www.smartaranetacoliseum.com/)
 
 - [Mall of Asia Arena](https://www.mallofasia-arena.com/)
 
-- [Philippine Arena](https://www.facebook.com/OfficialPhilippineArena/)
+- [Philippine Arena*](https://www.facebook.com/OfficialPhilippineArena/)
 
 - [Cultural Center of the Philippines Complex (CCP)](https://www.culturalcenter.gov.ph/)
 

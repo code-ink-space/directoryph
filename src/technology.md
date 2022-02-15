@@ -26,11 +26,9 @@
 
 - [Globe Telecom](https://www.globe.com.ph)
 
-- Bayan Telecommunications
-
 - [Converge ICT](https://www.convergeict.com)
 
-- Dito Telecommunity (soon)
+- [Dito Telecommunity](https://dito.ph/)
 
 ## Cable TV
 

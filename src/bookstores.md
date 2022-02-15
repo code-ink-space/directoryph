@@ -1,5 +1,7 @@
 # Philippine Bookstores
 
+<small>*\* indicates a social media page link*</small>
+
 ## The Big Bookstores
 
 - [National Bookstore](https://www.nationalbookstore.com)
@@ -12,7 +14,7 @@
 
 ## Bargain Bookstore Chains
 
-- [Chapters & Pages](https://www.facebook.com/booksbychaptersandpages/)
+- [Chapters & Pages*](https://www.facebook.com/booksbychaptersandpages/)
  
 - [Books for Less](https://booksforless.ph/)
 
@@ -20,39 +22,39 @@
 
 ## Indie Bookstores
 
-- [Popular Bookstore](https://www.facebook.com/popularbkstore/)
+- [Popular Bookstore*](https://www.facebook.com/popularbkstore/)
 
-- [Bookay-Ukay Pilipinas](https://www.facebook.com/bookayukay)
+- [Bookay-Ukay Pilipinas*](https://www.facebook.com/bookayukay)
 
-- [Roel's Bookshop](https://www.facebook.com/roelsbookshop/)
+- [Roel's Bookshop*](https://www.facebook.com/roelsbookshop/)
 
-- [BookFellas](https://www.facebook.com/BookFellasPH)
+- [BookFellas*](https://www.facebook.com/BookFellasPH)
 
-- [Books, Brains, Bombs](https://www.facebook.com/booksbrainsbombs)
+- [Books, Brains, Bombs*](https://www.facebook.com/booksbrainsbombs)
 
-- [JERVS / Mabel Pocketbooks Store](https://www.facebook.com/jervs.pocketbooks)
+- [JERVS / Mabel Pocketbooks Store*](https://www.facebook.com/jervs.pocketbooks)
 
-- [The Book Snoop](https://www.facebook.com/thebooksnopp/)
+- [The Book Snoop*](https://www.facebook.com/thebooksnopp/)
 
-- [Books from underground](https://www.facebook.com/booksfromunderground)
+- [Books from underground*](https://www.facebook.com/booksfromunderground)
 
-- [Books Around the Corner](https://www.facebook.com/BooksAroundTheCorner)
+- [Books Around the Corner*](https://www.facebook.com/BooksAroundTheCorner)
 
-- [Porch Reader Philippines](https://www.facebook.com/porchreaderphilippines/)
+- [Porch Reader Philippines*](https://www.facebook.com/porchreaderphilippines/)
 
-- [Solidaridad Bookshop](https://www.facebook.com/solidaridadbookshop/)
+- [Solidaridad Bookshop*](https://www.facebook.com/solidaridadbookshop/)
 
-- [SoLa's Pre-Loved Books](https://www.facebook.com/SoLasPreLovedBooks/)
+- [SoLa's Pre-Loved Books*](https://www.facebook.com/SoLasPreLovedBooks/)
 
 ## Comic Books
 
-- [Filbar's](https://www.facebook.com/filbarsonline)
+- [Filbar's*](https://www.facebook.com/filbarsonline)
 
 - [Comic Odyssey](https://www.comic-odyssey.com/)
 
-- [Comic Quest Philippines](https://www.facebook.com/cqsales)
+- [Comic Quest Philippines*](https://www.facebook.com/cqsales)
 
-- [Planet X Comic Shop](https://www.facebook.com/planetxcomicsphil)
+- [Planet X Comic Shop*](https://www.facebook.com/planetxcomicsphil)
 
 ## Christian Books
 

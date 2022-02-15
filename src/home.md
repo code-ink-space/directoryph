@@ -1,6 +1,6 @@
 # Philippines Web Directory
 
-**A curated directory of links to the best from the Philippines.**
+**A curated directory of links to online Filipino destinations.**
 
 Submit suggestions by opening an issue in [GitHub](https://github.com/code-ink-space/directoryph/issues/new).
 
@@ -20,9 +20,11 @@ Submit suggestions by opening an issue in [GitHub](https://github.com/code-ink-s
 
 [Technology](./technology.md)
 
-[Shopping](./shopping.md)
+[Sports](./sports.md)
 
 [Tourism](./tourism.md)
+
+[Shopping](./shopping.md)
 
 [Event Venues](./event-venues.md)
 

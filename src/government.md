@@ -18,6 +18,8 @@
 
 - [Philippine Postal Corporation](https://www.phlpost.gov.ph)
 
+- [Philippine Sports Commission](http://www.psc.gov.ph)
+
 - [Social Security System (SSS)](https://www.sss.gov.ph)
 
 - [Government Service Insurance System (GSIS)](https://www.gsis.gov.ph)
