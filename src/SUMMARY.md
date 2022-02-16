@@ -4,6 +4,7 @@
 [Communities](./communities.md)
 [News](./news.md)
 [Portals](./portals.md)
+[Food](./food.md)
 [Bookstores](./bookstores.md)
 [Libraries](./libraries.md)
 [Magazines](./magazines.md)

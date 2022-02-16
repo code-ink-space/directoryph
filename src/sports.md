@@ -1,6 +1,6 @@
 # Sports
 
-<small>*\* indicates a social media page link*</small>
+<small>*\* denotes a social media page link*</small>
 
 ## Sports News
 
@@ -19,8 +19,6 @@
 - [CNN Philippines - Sports](https://cnnphilippines.com/sports/)
 
 - [PNA Sports News](https://www.pna.gov.ph/categories/sports)
-
-
 
 ## Leagues and Organizations
 

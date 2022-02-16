@@ -9,3 +9,9 @@
 - [Overseas Workers Welfare Administration (OWWA)](https://owwa.gov.ph/)
 
 - [Technical Education and Skills Development Authority (TESDA)](http://www.tesda.gov.ph/)
+
+- [Upwork Philippines](https://www.upwork.com/hire/ph/)
+
+- [OnlineJobs.ph](https://www.onlinejobs.ph/)
+
+- [Pinoy Jobs](https://pinoyjobs.ph/)

@@ -1,6 +1,6 @@
 # Philippine Bookstores
 
-<small>*\* indicates a social media page link*</small>
+<small>*\* denotes a social media page link*</small>
 
 ## The Big Bookstores
 

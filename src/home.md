@@ -12,6 +12,8 @@ Submit suggestions by opening an issue on [GitHub](https://github.com/code-ink-s
 
 [Portals](./portals.md)
 
+[Food](./food.md)
+
 [Bookstores](./bookstores.md)
 
 [Libraries](./libraries.md)

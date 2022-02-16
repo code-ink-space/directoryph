@@ -35,3 +35,33 @@
 - [Sky Cable](http://www.mysky.com.ph)
 
 - [Cignal](https://cignal.tv)
+
+## Tech Shops
+
+- [TipidPC](https://tipidpc.com/)
+
+- [VillMan](https://villman.com)
+
+- [PC Express](https://pcx.com.ph/)
+
+- [iTech Philippines](https://www.itech.ph/)
+
+- [PC Gilmore](http://pcgilmore.com.ph/)
+
+- [EasyPC](https://easypc.com.ph/)
+
+- [DataBlitz](https://www.datablitz.com.ph)
+
+- [GameOnePH](https://gameone.ph/)
+
+- [Complink Philippines](https://www.complink.com.ph/)
+
+- [Abenson](https://www.abenson.com/)
+
+- [SM Appliance](https://www.smappliance.com/)
+
+- [Anson's](https://ansons.ph/)
+
+- [TipidCP](https://tipidcp.com/)
+
+- [Kimstore](https://kimstore.com/)
