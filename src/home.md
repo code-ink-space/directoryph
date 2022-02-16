@@ -2,7 +2,7 @@
 
 **A curated directory of links to online Filipino destinations.**
 
-Submit suggestions by opening an issue in [GitHub](https://github.com/code-ink-space/directoryph/issues/new).
+Submit suggestions by opening an issue on [GitHub](https://github.com/code-ink-space/directoryph/issues/new).
 
 *You can also access these categories from the left sidebar.*
 
