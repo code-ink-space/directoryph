@@ -20,11 +20,15 @@
 
 - [Ayala Museum](https://www.ayalamuseum.org)
 
-## Amusement Parks
+## Amusement Parks & Venues
 
 - [Enchanted Kingdom](http://enchantedkingdom.ph)
 
 - [Star City](https://www.starcity.com.ph)
+
+- [Sky Ranch](https://www.skyranch.com.ph/)
+
+- [The Inflatable Island](https://www.theinflatableisland.com/)
 
 ## Manila Integrated Resorts
 
@@ -35,6 +39,16 @@
 - [City of Dreams Manila](https://www.cityofdreamsmanila.com)
 
 - [Okada Manila](https://www.okadamanila.com)
+
+## Hotel and Accommodations
+
+- [Manila Hotel](https://www.manila-hotel.com.ph/)
+
+- [The Manor at Camp John Hay](https://campjohnhay.ph/)
+
+- [tripmoba.com](https://www.tripmoba.com/)
+
+- [e-Philippines](https://www.e-philippines.com.ph)
 
 ## Beaches
 
@@ -65,16 +79,6 @@
 - [Jomalia Shipping](https://jomaliashipping.com/)
 
 - [Starlite Ferries](https://www.starliteferries.com/)
-
-
-
-
-
-## Hotel and Accommodations
-
-- [tripmoba.com](https://www.tripmoba.com/)
-
-- [e-Philippines](https://www.e-philippines.com.ph)
 
 
 

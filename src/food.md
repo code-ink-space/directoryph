@@ -62,6 +62,8 @@
 
 - [Cropital](https://store.cropital.com/)
 
-## Online Food Delivery
+## Food Delivery
 
 - [GrabFood](https://www.grab.com/ph/food/)
+
+- [McDonald's Delivery Philippines](https://mcdelivery.com.ph/)

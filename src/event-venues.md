@@ -1,6 +1,6 @@
 # Event Venues
 
-<small>*\* indicates a social media page link*</small>
+<small>*\* denotes a social media page link*</small>
 
 - [Araneta Coliseum](https://www.smartaranetacoliseum.com/)
 

@@ -16,7 +16,7 @@
 
 - [CityMall Commercial Centers](http://citymall.com.ph)
 
-- [Vista Malls](https://vistacinemas.com.ph)
+- [Vista Malls](https://www.vistamalls.com.ph/)
 
 - [Walter Mart](https://waltermart.com.ph)
 
@@ -155,6 +155,24 @@
 - [D&D Music](https://ddmusic.ph/)
 
 - [Thomson](https://www.thomson.ph)
+
+## Vinyl Record Stores
+
+- [Backspacer Records](https://www.backspacerrecords.com/)
+
+- [Plaka Express](https://www.plakaexpress.com/)
+
+- [The Grey Market Records*](https://www.facebook.com/TheGreyMarketRecords/)
+
+- [Vinyl DUMP Thrift Store*](https://www.facebook.com/VinylDumpThriftStore)
+
+- [Treskul Records & Cafe*](https://www.facebook.com/treskul/)
+
+- [Black Circles by Alice*](https://www.facebook.com/blackcirclesbyalice/)
+
+- [Satchmi](https://satchmi.com/)
+
+- [Spindle Hole Records*](https://www.facebook.com/spindlerecords/)
 
 ## Automotive
 

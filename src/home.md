@@ -8,8 +8,6 @@ Submit suggestions by opening an issue on [GitHub](https://github.com/code-ink-s
 
 [Communities](./communities.md)
 
-[News](./news.md)
-
 [Portals](./portals.md)
 
 [Food](./food.md)
@@ -20,11 +18,15 @@ Submit suggestions by opening an issue on [GitHub](https://github.com/code-ink-s
 
 [Magazines](./magazines.md)
 
+[News](./news.md)
+
 [Technology](./technology.md)
 
 [Sports](./sports.md)
 
 [Tourism](./tourism.md)
+
+[Entertainment](./entertainment.md)
 
 [Shopping](./shopping.md)
 
