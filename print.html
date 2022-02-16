@@ -4,16 +4,13 @@
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
         <title>Philippines Web Directory</title>
-        
         <meta name="robots" content="noindex" />
-        
-
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
 
-        <link rel="shortcut icon" href="favicon.png">
+        <link rel="shortcut icon" href="">
         <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
@@ -30,15 +27,12 @@
         <link rel="stylesheet" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
-        
-
-        
     </head>
     <body>
         <!-- Provide site root to javascript -->
         <script type="text/javascript">
             var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "rust" : "rust";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "rust";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
@@ -83,7 +77,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div id="sidebar-scrollbox" class="sidebar-scrollbox">
-                <ol class="chapter"><li class="expanded affix "><a href="home.html">directory.hopePH</a></li><li class="expanded affix "><a href="communities.html">Communities</a></li><li class="expanded affix "><a href="news.html">News</a></li><li class="expanded affix "><a href="portals.html">Portals</a></li><li class="expanded affix "><a href="bookstores.html">Bookstores</a></li><li class="expanded affix "><a href="libraries.html">Libraries</a></li><li class="expanded affix "><a href="magazines.html">Magazines</a></li><li class="expanded affix "><a href="technology.html">Technology</a></li><li class="expanded affix "><a href="shopping.html">Shopping</a></li><li class="expanded affix "><a href="tourism.html">Tourism</a></li><li class="expanded affix "><a href="event-venues.html">Event Venues</a></li><li class="expanded affix "><a href="banks.html">Banks</a></li><li class="expanded affix "><a href="jobs.html">Jobs</a></li><li class="expanded affix "><a href="government.html">Government</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="home.html">directory.hopePH</a></li><li class="chapter-item expanded affix "><a href="communities.html">Communities</a></li><li class="chapter-item expanded affix "><a href="news.html">News</a></li><li class="chapter-item expanded affix "><a href="portals.html">Portals</a></li><li class="chapter-item expanded affix "><a href="bookstores.html">Bookstores</a></li><li class="chapter-item expanded affix "><a href="libraries.html">Libraries</a></li><li class="chapter-item expanded affix "><a href="magazines.html">Magazines</a></li><li class="chapter-item expanded affix "><a href="technology.html">Technology</a></li><li class="chapter-item expanded affix "><a href="sports.html">Sports</a></li><li class="chapter-item expanded affix "><a href="tourism.html">Tourism</a></li><li class="chapter-item expanded affix "><a href="shopping.html">Shopping</a></li><li class="chapter-item expanded affix "><a href="event-venues.html">Event Venues</a></li><li class="chapter-item expanded affix "><a href="banks.html">Banks</a></li><li class="chapter-item expanded affix "><a href="jobs.html">Jobs</a></li><li class="chapter-item expanded affix "><a href="government.html">Government</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -91,7 +85,6 @@
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                
                 <div id="menu-bar" class="menu-bar">
                     <div id="menu-bar-sticky-container">
                         <div class="left-buttons">
@@ -108,11 +101,9 @@
                                 <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                                 <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                             </ul>
-                            
                             <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
                                 <i class="fa fa-search"></i>
                             </button>
-                            
                         </div>
 
                         <h1 class="menu-title">Philippines Web Directory</h1>
@@ -121,16 +112,13 @@
                             <a href="print.html" title="Print this book" aria-label="Print this book">
                                 <i id="print-button" class="fa fa-print"></i>
                             </a>
-                            
                             <a href="https://github.com/code-ink-space/directoryph" title="Git repository" aria-label="Git repository">
                                 <i id="git-repository-button" class="fa fa-github"></i>
                             </a>
-                            
                         </div>
                     </div>
                 </div>
 
-                
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
                         <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
@@ -141,8 +129,6 @@
                         </ul>
                     </div>
                 </div>
-                
-
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
                 <script type="text/javascript">
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
@@ -154,9 +140,9 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#philippines-web-directory" id="philippines-web-directory">Philippines Web Directory</a></h1>
-<p><strong>A curated directory of links to the best from the Philippines.</strong></p>
-<p>Submit suggestions by opening an issue in <a href="https://github.com/code-ink-space/directoryph/issues/new">GitHub</a>.</p>
+                        <h1 id="philippines-web-directory"><a class="header" href="#philippines-web-directory">Philippines Web Directory</a></h1>
+<p><strong>A curated directory of links to online Filipino destinations.</strong></p>
+<p>Submit suggestions by opening an issue on <a href="https://github.com/code-ink-space/directoryph/issues/new">GitHub</a>.</p>
 <p><em>You can also access these categories from the left sidebar.</em></p>
 <p><a href="./communities.html">Communities</a></p>
 <p><a href="./news.html">News</a></p>
@@ -165,13 +151,14 @@
 <p><a href="./libraries.html">Libraries</a></p>
 <p><a href="./magazines.html">Magazines</a></p>
 <p><a href="./technology.html">Technology</a></p>
-<p><a href="./shopping.html">Shopping</a></p>
+<p><a href="./sports.html">Sports</a></p>
 <p><a href="./tourism.html">Tourism</a></p>
+<p><a href="./shopping.html">Shopping</a></p>
 <p><a href="./event-venues.html">Event Venues</a></p>
 <p><a href="./banks.html">Banks</a></p>
 <p><a href="./jobs.html">Jobs</a></p>
 <p><a href="./government.html">Government</a></p>
-<h1><a class="header" href="#filipino-online-communities" id="filipino-online-communities">Filipino Online Communities</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="filipino-online-communities"><a class="header" href="#filipino-online-communities">Filipino Online Communities</a></h1>
 <ul>
 <li>
 <p><a href="https://www.reddit.com/r/Philippines/">Reddit r/Philippines</a></p>
@@ -204,8 +191,8 @@
 <p><a href="https://www.expat.com/forum/viewforum.php?id=201">Expat.com Philippine Forums</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#philippine-news" id="philippine-news">Philippine News</a></h1>
-<h2><a class="header" href="#newspapers-in-print-and-online" id="newspapers-in-print-and-online">Newspapers in Print and Online</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="philippine-news"><a class="header" href="#philippine-news">Philippine News</a></h1>
+<h2 id="newspapers-in-print-and-online"><a class="header" href="#newspapers-in-print-and-online">Newspapers in Print and Online</a></h2>
 <ul>
 <li>
 <p><a href="https://www.inquirer.net/">INQUIRER.net</a></p>
@@ -229,7 +216,7 @@
 <p><a href="https://www.sunstar.com.ph/">SunStar</a></p>
 </li>
 </ul>
-<h3><a class="header" href="#web-media-outlet" id="web-media-outlet">Web Media Outlet</a></h3>
+<h3 id="web-media-outlet"><a class="header" href="#web-media-outlet">Web Media Outlet</a></h3>
 <ul>
 <li>
 <p><a href="https://www.pna.gov.ph/">Philippine News Agency</a></p>
@@ -238,8 +225,8 @@
 <p><a href="https://www.rappler.com">Rappler</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#tv-stations" id="tv-stations">TV Stations</a></h2>
-<h3><a class="header" href="#filipino" id="filipino">Filipino</a></h3>
+<h2 id="tv-stations"><a class="header" href="#tv-stations">TV Stations</a></h2>
+<h3 id="filipino"><a class="header" href="#filipino">Filipino</a></h3>
 <ul>
 <li>
 <p><a href="https://www.gmanetwork.com/news/">GMA News Online</a></p>
@@ -254,7 +241,7 @@
 <p><a href="http://ptvnews.ph/">People's Television Network (PTV)</a></p>
 </li>
 </ul>
-<h3><a class="header" href="#english" id="english">English</a></h3>
+<h3 id="english"><a class="header" href="#english">English</a></h3>
 <ul>
 <li>
 <p><a href="https://news.abs-cbn.com/anc">ABS-CBN News Channel (ANC)</a></p>
@@ -262,8 +249,11 @@
 <li>
 <p><a href="https://www.cnnphilippines.com/">CNN Philippines</a></p>
 </li>
+<li>
+<p><a href="https://www.onenews.ph/">One News</a></p>
+</li>
 </ul>
-<h2><a class="header" href="#radio-stations" id="radio-stations">Radio Stations</a></h2>
+<h2 id="radio-stations"><a class="header" href="#radio-stations">Radio Stations</a></h2>
 <ul>
 <li>
 <p><a href="https://www.gmanetwork.com/radio/dzbb">DZBB</a></p>
@@ -272,7 +262,7 @@
 <p><a href="https://news.abs-cbn.com/dzmm">DZMM</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#portals" id="portals">Portals</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="portals"><a class="header" href="#portals">Portals</a></h1>
 <ul>
 <li>
 <p><a href="https://www.clickthecity.com/">ClickTheCity</a></p>
@@ -287,8 +277,9 @@
 <p><a href="https://www.msn.com/en-ph">MSN Philippines</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#philippine-bookstores" id="philippine-bookstores">Philippine Bookstores</a></h1>
-<h2><a class="header" href="#the-big-bookstores" id="the-big-bookstores">The Big Bookstores</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="philippine-bookstores"><a class="header" href="#philippine-bookstores">Philippine Bookstores</a></h1>
+<p><small><em>* indicates a social media page link</em></small></p>
+<h2 id="the-big-bookstores"><a class="header" href="#the-big-bookstores">The Big Bookstores</a></h2>
 <ul>
 <li>
 <p><a href="https://www.nationalbookstore.com">National Bookstore</a></p>
@@ -303,10 +294,10 @@
 <p><a href="http://powerbooks.com.ph/">Powerbooks</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#bargain-bookstore-chains" id="bargain-bookstore-chains">Bargain Bookstore Chains</a></h2>
+<h2 id="bargain-bookstore-chains"><a class="header" href="#bargain-bookstore-chains">Bargain Bookstore Chains</a></h2>
 <ul>
 <li>
-<p><a href="https://www.facebook.com/booksbychaptersandpages/">Chapters &amp; Pages</a></p>
+<p><a href="https://www.facebook.com/booksbychaptersandpages/">Chapters &amp; Pages*</a></p>
 </li>
 <li>
 <p><a href="https://booksforless.ph/">Books for Less</a></p>
@@ -315,61 +306,61 @@
 <p><a href="https://www.booksale.com.ph/">Booksale</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#indie-bookstores" id="indie-bookstores">Indie Bookstores</a></h2>
+<h2 id="indie-bookstores"><a class="header" href="#indie-bookstores">Indie Bookstores</a></h2>
 <ul>
 <li>
-<p><a href="https://www.facebook.com/popularbkstore/">Popular Bookstore</a></p>
+<p><a href="https://www.facebook.com/popularbkstore/">Popular Bookstore*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/bookayukay">Bookay-Ukay Pilipinas</a></p>
+<p><a href="https://www.facebook.com/bookayukay">Bookay-Ukay Pilipinas*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/roelsbookshop/">Roel's Bookshop</a></p>
+<p><a href="https://www.facebook.com/roelsbookshop/">Roel's Bookshop*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/BookFellasPH">BookFellas</a></p>
+<p><a href="https://www.facebook.com/BookFellasPH">BookFellas*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/booksbrainsbombs">Books, Brains, Bombs</a></p>
+<p><a href="https://www.facebook.com/booksbrainsbombs">Books, Brains, Bombs*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/jervs.pocketbooks">JERVS / Mabel Pocketbooks Store</a></p>
+<p><a href="https://www.facebook.com/jervs.pocketbooks">JERVS / Mabel Pocketbooks Store*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/thebooksnopp/">The Book Snoop</a></p>
+<p><a href="https://www.facebook.com/thebooksnopp/">The Book Snoop*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/booksfromunderground">Books from underground</a></p>
+<p><a href="https://www.facebook.com/booksfromunderground">Books from underground*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/BooksAroundTheCorner">Books Around the Corner</a></p>
+<p><a href="https://www.facebook.com/BooksAroundTheCorner">Books Around the Corner*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/porchreaderphilippines/">Porch Reader Philippines</a></p>
+<p><a href="https://www.facebook.com/porchreaderphilippines/">Porch Reader Philippines*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/solidaridadbookshop/">Solidaridad Bookshop</a></p>
+<p><a href="https://www.facebook.com/solidaridadbookshop/">Solidaridad Bookshop*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/SoLasPreLovedBooks/">SoLa's Pre-Loved Books</a></p>
+<p><a href="https://www.facebook.com/SoLasPreLovedBooks/">SoLa's Pre-Loved Books*</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#comic-books" id="comic-books">Comic Books</a></h2>
+<h2 id="comic-books"><a class="header" href="#comic-books">Comic Books</a></h2>
 <ul>
 <li>
-<p><a href="https://www.facebook.com/filbarsonline">Filbar's</a></p>
+<p><a href="https://www.facebook.com/filbarsonline">Filbar's*</a></p>
 </li>
 <li>
 <p><a href="https://www.comic-odyssey.com/">Comic Odyssey</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/cqsales">Comic Quest Philippines</a></p>
+<p><a href="https://www.facebook.com/cqsales">Comic Quest Philippines*</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/planetxcomicsphil">Planet X Comic Shop</a></p>
+<p><a href="https://www.facebook.com/planetxcomicsphil">Planet X Comic Shop*</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#christian-books" id="christian-books">Christian Books</a></h2>
+<h2 id="christian-books"><a class="header" href="#christian-books">Christian Books</a></h2>
 <ul>
 <li>
 <p><a href="https://stpauls.ph">ST PAULS</a></p>
@@ -390,7 +381,7 @@
 <p><a href="https://store.backtothebible.org/">Back to the Bible Store</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#philippine-libraries" id="philippine-libraries">Philippine Libraries</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="philippine-libraries"><a class="header" href="#philippine-libraries">Philippine Libraries</a></h1>
 <ul>
 <li>
 <p><a href="http://web.nlp.gov.ph">National Library of the Philippines</a></p>
@@ -405,8 +396,8 @@
 <p><a href="https://www.filipinaslibrary.org.ph">Filipinas Heritage Library</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#magazines" id="magazines">Magazines</a></h1>
-<h2><a class="header" href="#secular" id="secular">Secular</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="magazines"><a class="header" href="#magazines">Magazines</a></h1>
+<h2 id="secular"><a class="header" href="#secular">Secular</a></h2>
 <ul>
 <li>
 <p><a href="https://www.summitmedia.com.ph">Summit Media (publisher)</a></p>
@@ -418,7 +409,7 @@
 <p><a href="https://onemega.com">One Mega Group (publisher)</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#religious" id="religious">Religious</a></h2>
+<h2 id="religious"><a class="header" href="#religious">Religious</a></h2>
 <ul>
 <li>
 <p><a href="https://worldmissionmagazine.com">World Mission Magazine</a></p>
@@ -436,8 +427,8 @@
 <p><a href="https://bayard.ph">Bayard Philippines (publisher)</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#technology" id="technology">Technology</a></h1>
-<h2><a class="header" href="#news-and-blogs" id="news-and-blogs">News and Blogs</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="technology"><a class="header" href="#technology">Technology</a></h1>
+<h2 id="news-and-blogs"><a class="header" href="#news-and-blogs">News and Blogs</a></h2>
 <ul>
 <li>
 <p><a href="https://www.yugatech.com/">YugaTech</a></p>
@@ -464,7 +455,7 @@
 <p><a href="http://newsbytes.ph/">Newsbytes Philippines</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#telecommunications--internet" id="telecommunications--internet">Telecommunications / Internet</a></h2>
+<h2 id="telecommunications--internet"><a class="header" href="#telecommunications--internet">Telecommunications / Internet</a></h2>
 <ul>
 <li>
 <p><a href="https://pldthome.com/">PLDT</a></p>
@@ -476,16 +467,13 @@
 <p><a href="https://www.globe.com.ph">Globe Telecom</a></p>
 </li>
 <li>
-<p>Bayan Telecommunications</p>
-</li>
-<li>
 <p><a href="https://www.convergeict.com">Converge ICT</a></p>
 </li>
 <li>
-<p>Dito Telecommunity (soon)</p>
+<p><a href="https://dito.ph/">Dito Telecommunity</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#cable-tv" id="cable-tv">Cable TV</a></h2>
+<h2 id="cable-tv"><a class="header" href="#cable-tv">Cable TV</a></h2>
 <ul>
 <li>
 <p><a href="http://www.mysky.com.ph">Sky Cable</a></p>
@@ -494,51 +482,175 @@
 <p><a href="https://cignal.tv">Cignal</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#shopping" id="shopping">Shopping</a></h1>
-<h2><a class="header" href="#online-stores" id="online-stores">Online Stores</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="sports"><a class="header" href="#sports">Sports</a></h1>
+<p><small><em>* indicates a social media page link</em></small></p>
+<h2 id="sports-news"><a class="header" href="#sports-news">Sports News</a></h2>
 <ul>
 <li>
-<p><a href="https://www.lazada.com.ph">Lazada.com.ph</a></p>
+<p><a href="https://plus.tv5.com.ph/">OneSports</a></p>
 </li>
 <li>
-<p><a href="https://shopee.ph">Shopee.ph</a></p>
+<p><a href="https://tiebreakertimes.com.ph/">Tiebreaker Times</a></p>
 </li>
 <li>
-<p><a href="https://www.carousell.ph">Carousell.ph</a></p>
+<p><a href="https://news.abs-cbn.com/sports">ABS-CBN News - Sports</a></p>
+</li>
+<li>
+<p><a href="https://sports.inquirer.net/">Sports by Inquirer.net</a></p>
+</li>
+<li>
+<p><a href="https://www.gmanetwork.com/news/sports/">GMA News Online - Sports</a></p>
+</li>
+<li>
+<p><a href="https://www.rappler.com/section/sports">Rappler - Sports News</a></p>
+</li>
+<li>
+<p><a href="https://cnnphilippines.com/sports/">CNN Philippines - Sports</a></p>
+</li>
+<li>
+<p><a href="https://www.pna.gov.ph/categories/sports">PNA Sports News</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#malls" id="malls">Malls</a></h2>
+<h2 id="leagues-and-organizations"><a class="header" href="#leagues-and-organizations">Leagues and Organizations</a></h2>
 <ul>
 <li>
-<p><a href="https://www.smsupermalls.com">SM Supermalls</a></p>
+<p><a href="https://www.pba.ph">Philippine Basketball Association</a></p>
 </li>
 <li>
-<p><a href="https://www.ayalamalls.com">Ayala Malls</a></p>
+<p><a href="https://pfl.org.ph/">Philippines Football League</a></p>
 </li>
 <li>
-<p><a href="http://www.robinsonsmalls.com">Robinsons Malls</a></p>
+<p><a href="https://pvl.ph/">Premier Volleyball League</a></p>
 </li>
 <li>
-<p><a href="https://megaworld-lifestylemalls.com">Megaworld Lifestyle Malls</a></p>
+<p><a href="https://philippineschess.com">Professional Chess Association of the Philippines</a></p>
 </li>
 <li>
-<p><a href="https://www.ortigasmalls.com">Ortigas Malls</a></p>
+<p><a href="https://www.mpbl.com.ph">Maharlika Pilipinas Basketball League</a></p>
 </li>
 <li>
-<p><a href="http://citymall.com.ph">CityMall Commercial Centers</a></p>
+<p><a href="https://www.facebook.com/communitybasketballassociationpilipinas">Community Basketball Association - Pilipinas*</a></p>
 </li>
 <li>
-<p><a href="https://vistacinemas.com.ph">Vista Malls</a></p>
+<p><a href="https://www.olympic.ph">Philippine Olympic Committee</a></p>
 </li>
 <li>
-<p><a href="https://waltermart.com.ph">Walter Mart</a></p>
+<p><a href="https://www.paralympic.org/philippines">Philippine Paralympic Committee </a></p>
 </li>
 <li>
-<p><a href="https://www.starmalls.com.ph">Starmalls</a></p>
+<p><a href="https://abap.org.ph">Association of Boxing Alliances in the Philippines</a></p>
+</li>
+<li>
+<p><a href="https://equestrianphilippines.com/">Equestrian Association of the Philippines</a></p>
+</li>
+<li>
+<p><a href="https://philippinetaekwondo.org/">Philippine Taekwondo Association</a></p>
+</li>
+<li>
+<p><a href="https://www.philippinejudofederation.org/">Philippine Judo Federation</a></p>
+</li>
+<li>
+<p><a href="https://philsilat.org/">Philsilat Sports Association Inc.</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/philtabletennisfederationinc/">Philippine Table Tennis Federation Inc.*</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PhilippineSwimming/">Philippine Swimming Inc.*</a></p>
+</li>
+<li>
+<p><a href="https://www.philippines.rugby/">Philippine Rugby Football Union</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/volleyball.phi">Philippine National Volleyball Federation*</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/philbowlingfed/">Philippine Bowling Federation, Inc.*</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/philcycling/">Integrated Cycling Federation of the Philippines*</a></p>
+</li>
+<li>
+<p><a href="http://www.triathlon.org.ph/">Triathlon Association of the Philippines</a></p>
+</li>
+<li>
+<p><a href="http://www.philippinegymnastics.org/">Gymnastics Association of the Philippines</a></p>
+</li>
+<li>
+<p><a href="http://philippinesailing.com/">Wrestling Association of the Philippines</a></p>
+</li>
+<li>
+<p><a href="https://wrestlingphilippines.com/">Philippine Sailing Association</a></p>
+</li>
+<li>
+<p><a href="https://worldarcheryphilippines.org/">World Archery Philippines</a></p>
+</li>
+<li>
+<p><a href="https://posf.ph/">Pilipinas Obstacle Sports Federation</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PhilippineHandballFederationInc">Philippine Handball Federation, Inc.*</a></p>
+</li>
+<li>
+<p><a href="https://pff.org.ph/">Philippine Football Federation</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/philippinecanoekayakfederation">Philippine Canoe Kayak Dragonboat Federation*</a></p>
+</li>
+<li>
+<p><a href="https://phsquash.org/">Philippine Squash Academy</a></p>
+</li>
+<li>
+<p><a href="http://www.asaphil.com.ph/">Amateur Softball Association of the Philippines</a></p>
+</li>
+<li>
+<p><a href="http://cricketphilippines.com/">Philippine Cricket Association</a></p>
+</li>
+<li>
+<p><a href="http://www.philippineskating.org/">Philippine Skating Union</a></p>
+</li>
+<li>
+<p><a href="https://icehockeyphilippines.com/">Hockey Philippines</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PHILIPPINESKI/">Philippine Ski &amp; Snowboard Federation</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PhilippineNetball">Philippine Netball Federation, Inc.*</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PHI.Floorball">Philippine Floorball Association*</a></p>
+</li>
+<li>
+<p><a href="https://aap.org.ph/">Automobile Association of the Philippines</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#tourism" id="tourism">Tourism</a></h1>
-<h2><a class="header" href="#educational" id="educational">Educational</a></h2>
+<h2 id="esports"><a class="header" href="#esports">Esports</a></h2>
+<ul>
+<li>
+<p><a href="https://www.facebook.com/philesports">Philippine Esports Organization*</a></p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/PHNationals">The Nationals, esports league*</a></p>
+</li>
+<li>
+<p><a href="https://ph-mpl.com">MPL Philippines</a></p>
+</li>
+<li>
+<p><a href="https://www.esportsph.com">Esports News PH</a></p>
+</li>
+<li>
+<p><a href="https://esports.inquirer.net">Esports by Inquirer.net</a></p>
+</li>
+<li>
+<p><a href="https://www.oneesports.ph">ONE Esports</a></p>
+</li>
+<li>
+<p><a href="https://esports.ph">E-Sports International</a></p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="tourism"><a class="header" href="#tourism">Tourism</a></h1>
+<h2 id="educational"><a class="header" href="#educational">Educational</a></h2>
 <ul>
 <li>
 <p><a href="http://www.nationalmuseum.gov.ph">The National Museum of the Philippines</a></p>
@@ -568,7 +680,7 @@
 <p><a href="https://www.ayalamuseum.org">Ayala Museum</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#amusement-parks" id="amusement-parks">Amusement Parks</a></h2>
+<h2 id="amusement-parks"><a class="header" href="#amusement-parks">Amusement Parks</a></h2>
 <ul>
 <li>
 <p><a href="http://enchantedkingdom.ph">Enchanted Kingdom</a></p>
@@ -577,7 +689,7 @@
 <p><a href="https://www.starcity.com.ph">Star City</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#manila-integrated-resorts" id="manila-integrated-resorts">Manila Integrated Resorts</a></h2>
+<h2 id="manila-integrated-resorts"><a class="header" href="#manila-integrated-resorts">Manila Integrated Resorts</a></h2>
 <ul>
 <li>
 <p><a href="http://rwmanila.com">Resorts World Manila</a></p>
@@ -592,11 +704,55 @@
 <p><a href="https://www.okadamanila.com">Okada Manila</a></p>
 </li>
 </ul>
-<h2><a class="header" href="#beaches" id="beaches">Beaches</a></h2>
+<h2 id="beaches"><a class="header" href="#beaches">Beaches</a></h2>
 <ul>
 <li><a href="https://boracayisland.org">Boracay</a></li>
 </ul>
-<h1><a class="header" href="#event-venues" id="event-venues">Event Venues</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="shopping"><a class="header" href="#shopping">Shopping</a></h1>
+<h2 id="online-stores"><a class="header" href="#online-stores">Online Stores</a></h2>
+<ul>
+<li>
+<p><a href="https://www.lazada.com.ph">Lazada.com.ph</a></p>
+</li>
+<li>
+<p><a href="https://shopee.ph">Shopee.ph</a></p>
+</li>
+<li>
+<p><a href="https://www.carousell.ph">Carousell.ph</a></p>
+</li>
+</ul>
+<h2 id="malls"><a class="header" href="#malls">Malls</a></h2>
+<ul>
+<li>
+<p><a href="https://www.smsupermalls.com">SM Supermalls</a></p>
+</li>
+<li>
+<p><a href="https://www.ayalamalls.com">Ayala Malls</a></p>
+</li>
+<li>
+<p><a href="http://www.robinsonsmalls.com">Robinsons Malls</a></p>
+</li>
+<li>
+<p><a href="https://megaworld-lifestylemalls.com">Megaworld Lifestyle Malls</a></p>
+</li>
+<li>
+<p><a href="https://www.ortigasmalls.com">Ortigas Malls</a></p>
+</li>
+<li>
+<p><a href="http://citymall.com.ph">CityMall Commercial Centers</a></p>
+</li>
+<li>
+<p><a href="https://vistacinemas.com.ph">Vista Malls</a></p>
+</li>
+<li>
+<p><a href="https://waltermart.com.ph">Walter Mart</a></p>
+</li>
+<li>
+<p><a href="https://www.starmalls.com.ph">Starmalls</a></p>
+</li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="event-venues"><a class="header" href="#event-venues">Event Venues</a></h1>
+<p><small><em>* indicates a social media page link</em></small></p>
 <ul>
 <li>
 <p><a href="https://www.smartaranetacoliseum.com/">Araneta Coliseum</a></p>
@@ -605,7 +761,7 @@
 <p><a href="https://www.mallofasia-arena.com/">Mall of Asia Arena</a></p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/OfficialPhilippineArena/">Philippine Arena</a></p>
+<p><a href="https://www.facebook.com/OfficialPhilippineArena/">Philippine Arena*</a></p>
 </li>
 <li>
 <p><a href="https://www.culturalcenter.gov.ph/">Cultural Center of the Philippines Complex (CCP)</a></p>
@@ -629,7 +785,7 @@
 <p><a href="https://www.newfrontiertheater.com/">New Frontier Theater</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#banks" id="banks">Banks</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="banks"><a class="header" href="#banks">Banks</a></h1>
 <ul>
 <li>
 <p><a href="http://www.bsp.gov.ph">Bangko Sentral ng Pilipinas</a></p>
@@ -671,7 +827,7 @@
 <p><a href="https://www.bankcom.com.ph">Bank of Commerce</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#jobs" id="jobs">Jobs</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="jobs"><a class="header" href="#jobs">Jobs</a></h1>
 <ul>
 <li>
 <p><a href="https://www.jobstreet.com.ph/">JobStreet.com.ph</a></p>
@@ -689,7 +845,7 @@
 <p><a href="http://www.tesda.gov.ph/">Technical Education and Skills Development Authority (TESDA)</a></p>
 </li>
 </ul>
-<h1><a class="header" href="#government" id="government">Government</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="government"><a class="header" href="#government">Government</a></h1>
 <ul>
 <li>
 <p><a href="https://www.gov.ph">Republic of the Philippines National Government Portal</a></p>
@@ -717,6 +873,9 @@
 </li>
 <li>
 <p><a href="https://www.phlpost.gov.ph">Philippine Postal Corporation</a></p>
+</li>
+<li>
+<p><a href="http://www.psc.gov.ph">Philippine Sports Commission</a></p>
 </li>
 <li>
 <p><a href="https://www.sss.gov.ph">Social Security System (SSS)</a></p>
@@ -751,59 +910,29 @@
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                        
-
-                        
-
                         <div style="clear: both"></div>
                     </nav>
                 </div>
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                
-
-                
             </nav>
 
         </div>
 
         
-
-        
-
-        
-        
-        
-        <script type="text/javascript">
-            window.playpen_copyable = true;
-        </script>
-        
-
-        
-
-        
         <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
-        
-
         <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="book.js" type="text/javascript" charset="utf-8"></script>
 
         <!-- Custom JS scripts -->
-        
-
-        
-        
         <script type="text/javascript">
         window.addEventListener('load', function() {
             window.setTimeout(window.print, 100);
         });
         </script>
-        
-        
-
     </body>
 </html>
