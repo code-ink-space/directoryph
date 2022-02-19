@@ -1,4 +1,4 @@
-# Shopping
+# Food
 
 <small>*\* indicates a social media page link*</small>
 
