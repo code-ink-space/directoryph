@@ -1,6 +1,6 @@
-# Philippines Web Directory
+# Philippines Internet Directory
 
-**A curated directory of links to online Filipino destinations.**
+**A curated directory of links to online Filipino website destinations.**
 
 Submit suggestions by opening an issue on [GitHub](https://github.com/code-ink-space/directoryph/issues/new).
 
