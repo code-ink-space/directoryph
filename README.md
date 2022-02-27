@@ -1,4 +1,4 @@
-# Philippines Web Directory
-A curated directory of links to the best from the Philippines.
+# Philippines Internet Directory
+A human curated directory of links to online Filipino website destinations.
 
 [https://directory.hopeph.com/](https://directory.hopeph.com/)
